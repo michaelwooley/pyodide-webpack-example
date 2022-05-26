@@ -1,4 +1,4 @@
-name: Build pyodide webpack demo app
+name: CI: pyodide webpack demo app
 
 on:
   push:
